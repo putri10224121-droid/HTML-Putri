@@ -1,16 +1,16 @@
 /* ===== Root color dan variabel ===== */
 :root {
-    --bg-start: #ffecd2;
-    --bg-end: #fcb69f;
+    --bg-start: #d2fff4;
+    --bg-end: #d19ffc;
     --card-bg: #ffffff;
-    --text-main: #334155;
-    --text-muted: #64748b;
-    --accent: #ff6b6b;
-    --accent-soft: #ffe3e3;
-    --border: #fbc531;
-    --code-bg: #2d3436;
-    --code-text: #00cec9;
-    --success: #00b894;
+    --text-main: #4e5533;
+    --text-muted: #8b7164;
+    --accent: #77ff6b08;
+    --accent-soft: #e3edff;
+    --border: #31befb80;
+    --code-bg: #362d2e5f;
+    --code-text: #ce0011;
+    --success: #0028b83a;
     --shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
 }
 
